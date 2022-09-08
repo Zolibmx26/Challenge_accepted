@@ -12,8 +12,8 @@ Steps to run the program option2 (needs to have GCC compiler installed):
   - Change the directory to the directory in which you have your source.cpp file. For example, if it is in C:/Users/Dell/Documents, enter your command line − 
             $ cd 'C:/Users/Dell/Documents'
   - Now enter the following command to compile the source file using g++.
-            $ g++ -o <name-you-want-to-give> source.cpp
-           In place of <name-you-want-to-give> replace it by any name like myprogram, etc.
+            $ g++ -o 'name-you-want-to-give' source.cpp -
+           In place of 'name-you-want-to-give' replace it by any name like myprogram, etc.
   - Run it! Now you can run the program using −
             $ ./myprogram - followed by the associated arguments as in the examples above
     
