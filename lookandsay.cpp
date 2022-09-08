@@ -22,10 +22,7 @@ string lookandsaySequence(string& str)
         else {
             
             counter++;
-         
         }
-        
-        
     }
     
 return result;
@@ -45,9 +42,7 @@ string lookandsayReflected(string& str) {
             
             result += str[i+1];
         } 
-     
-        
-        
+    
     }
     
 return result;
